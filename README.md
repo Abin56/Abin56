@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Studentmanagement(Getx)**
+- 🔭 I’m currently working on **Hacktoberfest**
 
 - 🌱 I’m currently learning **Flutter to about learning more**
 
